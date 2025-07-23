@@ -1,0 +1,3 @@
+[submodule "project"]
+	path = project
+	url = https://github.com/2021PassionProject/EnvironmentProject-2021.git
